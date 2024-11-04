@@ -24,11 +24,9 @@ For the academic references, check the slides!
 
 ---
 
-![dodwaw24](https://github.com/user-attachments/assets/acfdddd1-2069-409f-a8de-18b813fbc438)
-
-
 My LinkedIN: https://www.linkedin.com/in/pedro-ivo-raimundo/
 
 Muito obrigado! :)
 
-![dodwaw_horizontal](https://github.com/pedroraimundo/devopsdays-warsaw-2024/assets/)
+![dodwaw24](https://github.com/user-attachments/assets/acfdddd1-2069-409f-a8de-18b813fbc438)
+
