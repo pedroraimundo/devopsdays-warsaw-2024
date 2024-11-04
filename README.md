@@ -24,6 +24,9 @@ For the academic references, check the slides!
 
 ---
 
+![dodwaw24](https://github.com/user-attachments/assets/acfdddd1-2069-409f-a8de-18b813fbc438)
+
+
 My LinkedIN: https://www.linkedin.com/in/pedro-ivo-raimundo/
 
 Muito obrigado! :)
