@@ -1,5 +1,7 @@
 # devopsdays-warsaw-2024
 Slides and notes for DevOpsDays Warsaw 2024 Presentation
+
+No More Heroes - Why Team Composition is a BIG Deal
 ---
 
 Thanks for taking interest in my presentation today!
